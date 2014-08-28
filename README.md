@@ -11,6 +11,7 @@ We will assume all the particpants have setup their laptops for android developm
 
 * **Five Must-Read Links Before the Event**
   + [Learn Java in Y Minutes](http://learnxinyminutes.com/docs/java/)
+  + [Java Programming Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 
 Course Outline
