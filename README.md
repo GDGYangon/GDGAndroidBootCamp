@@ -9,8 +9,8 @@ Pre-course Preparation
 
 We will assume all the particpants have setup their laptops for android development.
 
-**TODO**
-+Five links
+* **Five Must-Read Links Before the Event**
+  + [Learn Java in Y Minutes](http://learnxinyminutes.com/docs/java/)
 
 
 Course Outline
