@@ -17,12 +17,17 @@ We will assume all the particpants have setup their laptops for android developm
 Course Outline
 ==================
 
+The course is a two-day, four-sessions. The participants will try to build a simple App incrementally adding features over the sessions.
+
+### First Session ###
+* * *
 * **History and Overview of Android**
   + Time: ~30 min
   + @who?
-  + We will talk about a brief history and overview of Android.
+  + We will talk about a brief history and overview of Android. Compatibility ...
 
 * **HelloWorld App**
-  + Time: 60:00 min
+  + Time: 90:00 min
   + @who?
-  + The participants will write a helloworld android app together with trainers learning how to create, build, and run an Andrid App.
+  + The participants will write a helloworld android app together with trainers learning how to create, build, and run an Andrid App. Android Activity Life Cycle will also be covered.
+  + http://www.vogella.com/tutorials/AndroidLifeCycle/article.html
