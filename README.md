@@ -1,4 +1,4 @@
-GDGAndroidBootCamp
+About
 ==================
 
-Course Outline, Slides &amp; Sample App for GDG Yangon Bootcamp App
+This repository holds the resources, outlines and sample app for the upcoming Android Bootcamps organized by GDG Yangon.
