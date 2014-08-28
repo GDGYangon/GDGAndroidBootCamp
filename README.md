@@ -40,7 +40,7 @@ The course is a two-day, four-sessions. The participants will try to build a sim
   + @who?
   + List View for Exchange rate, ScrollView (First tab Karrency)
   
-* **More Complex Views and Layouts **
+* **More Complex Views and Layouts**
   + Time: 
   + @who?
   + Build Exchange Rate Calculator (Second tab Karrency)
