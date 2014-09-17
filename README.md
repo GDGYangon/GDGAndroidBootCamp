@@ -13,6 +13,7 @@ We will assume all the particpants have setup their laptops for android developm
   + [Learn Java in Y Minutes](http://learnxinyminutes.com/docs/java/)
   + [Java Programming Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
   + [Learn Java for Android Development](http://code.tutsplus.com/series/learn-java-for-android-development--mobile-22888)
+  + [What is JSON](http://json.org/)
 
 
 Course Outline
